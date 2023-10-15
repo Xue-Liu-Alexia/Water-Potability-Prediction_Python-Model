@@ -6,8 +6,8 @@ Provides insight into the water quality parameters provided in the data set and 
 
 # Table of Contents
 1. Notebook:
-- [Water Potability Prediction.ipynb](https://github.com/Xue-Liu-Alexia/Walmart_WeeklySales_Prediction_Model/blob/main/Walmart%20Sales%20Prediction%20Model.ipynb)
+- [Water Potability Prediction.ipynb](https://github.com/Xue-Liu-Alexia/Water_Potability_Prediction_Python_Model/blob/main/Water%20Potability%20Prediction.ipynb)
 2. Documentation:
--  [SWEETVIZ_REPORT.html](https://github.com/Xue-Liu-Alexia/Walmart_WeeklySales_Prediction_Model/blob/main/Walmart%20Weekly%20Sales%20Prediction.pptx)
+-  [SWEETVIZ_REPORT.html](https://github.com/Xue-Liu-Alexia/Water_Potability_Prediction_Python_Model/blob/main/SWEETVIZ_REPORT.html)
 3. Data Sets:
-- [water_potability.csv](https://github.com/Xue-Liu-Alexia/Walmart_WeeklySales_Prediction_Model/blob/main/walmart-sales-dataset-of-45stores.csv)
+- [water_potability.csv](https://github.com/Xue-Liu-Alexia/Water_Potability_Prediction_Python_Model/blob/main/water_potability.csv)
